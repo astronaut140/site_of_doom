@@ -10,13 +10,13 @@ body
 {
   font-family: "Jost", sans-serif;
   font-style: normal;
-  line-height: 10pt;
+  line-height: 11pt;
   background-image: url("bgslow.gif");
 }
 .box {
   width: vw;
   height: vh;
-  border: 3px white;
+  border: 3px solid white;
   padding: 25px;
   margin: 25px;
 }
