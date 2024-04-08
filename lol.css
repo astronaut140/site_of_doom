@@ -1,3 +1,5 @@
+var vh = window.innerHeight;
+var vw = window.innerWidth;
 .jost-shit {
   font-family: "Jost", sans-serif;
   font-optical-sizing: auto;
@@ -10,4 +12,11 @@ body
   font-style: normal;
   line-height: 10pt;
   background-image: url("bgslow.gif");
+}
+.box {
+  width: vw;
+  height: vh;
+  border: 3px white;
+  padding: 25px;
+  margin: 25px;
 }
