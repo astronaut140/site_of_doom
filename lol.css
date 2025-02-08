@@ -11,12 +11,11 @@ body
   font-family: "Jost", sans-serif;
   font-style: normal;
   line-height: 11pt;
-  background-image: url("bgslow.gif");
+  background-image: url("5025.png");
 }
 .box {
-  width: vw;
-  height: vh;
-  border: 3px solid white;
+  width: 45%;
+  border: 3px solid rgba(32, 32, 32, 1);
   padding: 25px;
   margin: 25px;
 }
