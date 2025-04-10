@@ -1,7 +1,9 @@
 body
 {
 	background-color: #444444;
+	font-family: "Crimson Text", serif;
 	color: #aaaaaa;
 	font-style: normal;
-	line-height: 11pt;
+	font-size: 1.5em;
+	line-height: 20pt;
 }
